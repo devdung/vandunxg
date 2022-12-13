@@ -4,9 +4,9 @@ const CONFIG = {
     name: 'vandunxg',
     image: '/profile.png',
     discription: 'Freelancer',
-    linkedin: 'devdung',
+    linkedin: 'vandunxg',
     email: 'vandunxg@gmail.com',
-    github: 'devdung',
+    github: 'vandunxg',
     instagram: 'vanduxng',
   },
   projects: [
