@@ -1,28 +1,28 @@
 const CONFIG = {
   // profile setting
   profile: {
-    name: 'morethan-log',
+    name: 'vandunxg',
     image: '/profile.png',
-    discription: 'frontend developer',
-    linkedin: 'morethanmin',
-    email: 'morethanmin.dev@gmail.com',
-    github: 'morethanmin',
-    instagram: 'more_dev_min',
+    discription: 'Freelancer',
+    linkedin: 'devdung',
+    email: 'vandunxg@gmail.com',
+    github: 'devdung',
+    instagram: 'vanduxng',
   },
   projects: [
     {
-      name: 'Untilled',
-      href: 'https://untilled.web.app'
+      name: 'vandunxg blog',
+      href: 'https://vandunxg.web.app'
     }
   ],
   // blog setting
   blog: {
-    title: 'morethan-log',
-    description: 'welcome to morethan-log!',
+    title: 'vandunxg',
+    description: 'welcome to vandunxg!',
   },
 
   // CONFIG configration
-  link: 'https://morethan-log.vercel.app',
+  link: 'https://vandunxg.vercel.app',
   since: 2022, // If leave this empty, current year will be used.
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   postsPerPage: 10,
@@ -54,7 +54,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: 'morethanmin/morethan-log',
+      repo: 'devdung/vandunxg',
       'issue-term': 'og:title',
       label: '💬 Utterances',
     }
