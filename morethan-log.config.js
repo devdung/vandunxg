@@ -12,7 +12,7 @@ const CONFIG = {
   projects: [
     {
       name: 'vandunxg blog',
-      href: 'https://vandunxg.web.app'
+      href: 'https://vandunxg.vercel.app'
     }
   ],
   // blog setting
@@ -28,7 +28,7 @@ const CONFIG = {
   postsPerPage: 10,
   ogImageGenerateURL: 'https://og-image-korean.vercel.app', // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['Blog', 'vanduxng', 'Notion'],
   },
 
   // notion configuration
@@ -54,7 +54,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: 'devdung/vandunxg',
+      repo: 'vandunxg/vandunxg',
       'issue-term': 'og:title',
       label: '💬 Utterances',
     }
