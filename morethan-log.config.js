@@ -33,9 +33,9 @@ const CONFIG = {
 
   // notion configuration
   notionConfig: {
-    pageId: process.env.bf75aa3010894d05a7b386de6372a94c,
+    pageId: 'bf75aa3010894d05a7b386de6372a94c',
     // if you prefer not to make your database public, use this!!!
-    accessToken: process.env.NOTION_ACCESS_TOKEN
+    accessToken: '54eb0071565f864586b97e1aedae03af44c39dcc7bf62fcee81e6a5ab154f7ca0d9b7acd89c801ea481167ef744825dd705cc1677fa4792a6cd7d64961ac45501de2d6d183239464beb99b24def9',
   },
 
   // plugin configuration
